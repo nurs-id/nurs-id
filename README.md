@@ -1,2 +1,2 @@
 ### language:
-<img src= "https://simpleicons.org/icons/html5.svg">
+<img src= "https://simpleicons.org/icons/html5.svg=blue">
