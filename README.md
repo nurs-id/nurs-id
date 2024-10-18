@@ -1,9 +1,6 @@
 
 
-### About me:
-#### Country:Kazakhstan, Almaty
-####
-####
+### I'm beginner developer
 
 ### Language and tools:
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=47C5FB)
