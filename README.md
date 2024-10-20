@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/nurs-id/nurs-id/refs/heads/main/IMG_7490%202.jpeg">
+<img src="https://github.com/nurs-id/nurs-id/blob/main/Снимок%20экрана%202024-10-20%20в%2013.34.04%202.jpg?raw=true">
 ### I'm beginner developer
 
 ### Language and tools:
